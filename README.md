@@ -59,3 +59,5 @@ For high-stakes games, consider using:
    ;; Suppose secret = 0xabc...123 (32 bytes)
    (contract-call? .number-generator commit 0x<sha256(secret)>)<img width="1098" height="566" alt="image" src="https://github.com/user-attachments/assets/a0f755e7-215b-4b3d-8e94-8c13573c2109" />
 
+<img width="1098" height="566" alt="image" src="https://github.com/user-attachments/assets/fce78577-b970-4ee5-86bb-503cee126695" />
+
